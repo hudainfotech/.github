@@ -48,7 +48,7 @@ We deliver scalable, secure, and high-performance digital solutions to help busi
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/huda-infotech)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hudainfotech)  
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@yourcompany.com)  
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@hudainfotech.com)  
 
 ---
 
