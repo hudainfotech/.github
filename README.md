@@ -27,7 +27,7 @@ We deliver scalable, secure, and high-performance digital solutions to help busi
 
 ## 🚀 What We Do  
 
-- 🔹 **Custom ERP Solutions** – Tailored ERPNext & Odoo implementations.  
+- 🔹 **Custom ERP Solutions** – Tailored Frappe/ERPNext implementations.  
 - 🔹 **SaaS Development** – Build and scale multi-tenant SaaS platforms.  
 - 🔹 **Web & Mobile Apps** – Modern, responsive, and scalable applications.  
 - 🔹 **Cloud & DevOps** – AWS, Azure, GCP deployment and automation.  
